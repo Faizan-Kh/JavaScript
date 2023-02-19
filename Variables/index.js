@@ -9,3 +9,4 @@ console.log("Enrolled:", student);
 
 document.getElementById("p1").innerHTML = "Hello " + firstname;
 document.getElementById("p2").innerHTML = "I am " + age + " years old.";
+console.log("Hello World");
